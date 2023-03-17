@@ -1,0 +1,25 @@
+td, tr{ 
+    border: 1px solid grey; 
+    width: 300px;
+    height: 90px;
+}
+.alignFinal{
+text-align: end;
+}
+.alignCentro{
+text-align: center;
+}
+.alignInicio{
+    text-align: start;
+}
+.tabelaTres{
+    width: 300px;
+    height: 90px;
+}
+.tabelaCinco{
+    width: 500px;
+    height: 90px;
+}
+table{
+    border: 1px solid grey;
+}
